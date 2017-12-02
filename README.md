@@ -17,7 +17,7 @@ Things you may want to cover:
 * random_cases 
   - 0.2.0 
   
- A simple  ruby on rails project for testing my ruby gems available on:
+ A simple ruby on rails project for testing my ruby gems available on:
  https://rubygems.org/profiles/zire
  
  ![Alt text](https://i.imgur.com/n4qYy4V.png "Sample ")
