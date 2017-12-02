@@ -20,5 +20,4 @@ Things you may want to cover:
  A simple  ruby on rails project for testing my ruby gems available on:
  https://rubygems.org/profiles/zire
  
- ![Alt text](https://imgur.com/a/RZlJw "Sample ")
- 
+ ![Alt text](https://i.imgur.com/n4qYy4V.png "Sample ")
