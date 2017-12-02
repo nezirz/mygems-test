@@ -1,0 +1,21 @@
+<h1>Test my gems</h1>
+<p>
+  <%= link_to 'RubyLeetSpeak 0.3.0','https://rubygems.org/gems/RubyLeetSpeak'%>
+  <br>
+  <%= link_to 'random_cases 0.2.0','https://rubygems.org/gems/random_cases' %>
+</p>
+<div>
+  <%= form_for :someparam, url: "/" do |f| %>
+    <%= f.text_area :toleet, size:'180x10'%><br>
+    <%= f.button 'Leet It'%>
+  <%end%>
+
+  <p>
+    <%= @leet unless @leet.nil? %>
+  </p>
+  <p>
+    <%= @random unless @random.nil? %>
+  </p>
+
+
+</div>
